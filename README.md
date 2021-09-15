@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-### Hi there 👋
-
-Olá, eu sou o Bux
-
 -->
+## Olá, eu sou o Bux
+
+💚 Atualmente sou Instrutor na [Trybe](https://github.com/betrybe)! 
+
+📆 Meu dia-a-dia é repleto de Python e teoria de Ciência da Computação (Algoritmos, Estruturas de Dados, Redes, Orientação a Objetos).
+
+💼 Já trabalhei também como Product Owner e Product Manager, e fiz MUITA consulta SQL em estágios.
