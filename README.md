@@ -23,3 +23,5 @@ Here are some ideas to get you started:
 📆 Meu dia-a-dia é repleto de Python e teoria de Ciência da Computação (Algoritmos, Estruturas de Dados, Redes, Orientação a Objetos).
 
 💼 Já trabalhei também como Product Owner e Product Manager, e fiz MUITA consulta SQL em estágios.
+
+[![Linkedin Badge](https://img.shields.io/badge/-[Texto do badge]-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/vitorbuxbaum/])]([https://www.linkedin.com/in/vitorbuxbaum/])
