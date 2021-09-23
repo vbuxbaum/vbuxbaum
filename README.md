@@ -18,17 +18,16 @@ Here are some ideas to get you started:
 -->
 ## Olá, eu sou o Bux 
 
+ <img align="right" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vbuxbaum&theme=radical"  />
+
 💚 Atualmente sou Instrutor na [Trybe](https://github.com/betrybe)! 
 
 📆 Meu dia-a-dia é repleto de Python e teoria de Ciência da Computação (Algoritmos, Estruturas de Dados, Redes, Orientação a Objetos).
 
 💼 Já trabalhei também como Product Owner e Product Manager, e fiz MUITA consulta SQL em estágios. 
 
-<p align="center">
+<p >
   <br>  
-  <a href="[https://github.com/vbuxbaum/github-readme-stats]"><img alt="LinkedIn" src="https://github-readme-stats.vercel.app/api?username=vbuxbaum&theme=radical" />
-  </a>
-  <br><br>
   <a href="[https://www.linkedin.com/in/vitorbuxbaum]"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
