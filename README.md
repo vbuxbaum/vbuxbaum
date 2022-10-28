@@ -1,7 +1,7 @@
 
 ## Olá, eu sou o Bux 
 
- <img align="right" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vbuxbaum&theme=radical"  />
+ <img align="right" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vbuxbaum&theme=radical&count_private=true"  />
 
 💚 Atualmente sou Instrutor Especialista na [Trybe](https://github.com/betrybe)! 
 
