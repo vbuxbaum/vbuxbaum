@@ -1,7 +1,8 @@
 
 ## Olá, eu sou o Bux 
 
- <img align="right" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vbuxbaum&theme=radical&count_private=true"  />
+<img align="right" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vbuxbaum&theme=radical&count_private=true"  />
+
 
 💚 Atualmente sou Instrutor Especialista na [Trybe](https://github.com/betrybe)! 
 
@@ -11,9 +12,7 @@
 
 📺 `House MD`, `Breaking Bad` e `The Office (US)` são as melhores séries já produzidas pela humanidade, e dificilmente você conseguirá me convencer do contrário!
 
-
 **Linguagens e Frameworks:**
-  
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Bash-20C20E?style=flat&logoColor=white">
@@ -22,7 +21,7 @@
   <img src="https://img.shields.io/badge/PyTest-6DB33F?style=flat&logo=pytest&logoColor=white">
   <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=00c8ff">
 </p>
-  
+
 **Ferramentas:**
 
 <p align="left">
@@ -41,12 +40,17 @@
 </p>
 
 -------
-
+<p align="center">
+ <img align="center" alt="GitHub Details" width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vbuxbaum&theme=github_dark"/>
+</p>
 <p >
   <br>  
   <a href="[https://www.linkedin.com/in/vitorbuxbaum]"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:vitor.buxbaum@gmail.com"><img alt="LinkedIn" href="mailto:vitor.buxbaum@gmail.com" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+
   <img align='right' src="https://komarev.com/ghpvc/?username=vbuxbaum&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="vbuxbaum" />
 </p>
+
+
