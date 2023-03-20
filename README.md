@@ -1,16 +1,16 @@
 
-## Olá, eu sou o Bux 
+## Olá, eu sou o Bux! 🙃
 
 <img align="right" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vbuxbaum&theme=radical&count_private=true"  />
 
 
-💚 Atualmente sou Instrutor Especialista na [Trybe](https://github.com/betrybe)! 
+💚 I am currently working as an Instruction Specialist at [Trybe](https://github.com/betrybe)! 
 
-📆 Meu dia-a-dia é repleto de Python, automações e teoria de Ciência da Computação (Algoritmos, Estruturas de Dados, Redes, Orientação a Objetos).
+📆 I code and teach Python on a daily basis, building automations and discussing Computer Science (Algorithms, Data Structures and Abstract Data Types, Computer Architecture and OOP).
 
-💼 Já trabalhei também como Product Owner e Product Manager, e fiz MUITA consulta SQL em estágios. 
+💼 I have also worked as a Product Manager, and used A LOT of SQL on interships. 
 
-📺 `House MD`, `Breaking Bad` e `The Office (US)` são as melhores séries já produzidas pela humanidade, e dificilmente você conseguirá me convencer do contrário!
+📺 `House MD`, `Breaking Bad` and `The Office (US)` are definitely the best TV/Streaming series ever made, and you probably won't be able to change my mind!
 
 **Linguagens e Frameworks:**
 <p align="left">
