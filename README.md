@@ -30,7 +30,7 @@
   <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
-  <img src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-0073ec?style=flat&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white">
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white">
   <img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white">
