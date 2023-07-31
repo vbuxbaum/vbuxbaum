@@ -1,5 +1,5 @@
 
-## Olá, eu sou o Bux! 🙃
+## Olá, eu sou o Bux! 🙃 
 
 <img align="right" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vbuxbaum&theme=radical&count_private=true"  />
 
@@ -15,11 +15,12 @@
 **Languages and Frameworks:**
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Bash-20C20E?style=flat&logoColor=white">
+  <img src="https://img.shields.io/badge/Bash-20C20E?style=flat&logo=gnubash&logoColor=white">
   <img src="https://img.shields.io/badge/SQL-F1502F?style=flat&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/FastAPI-00CCB8?style=flat&logo=fastapi&logoColor=white">
-  <img src="https://img.shields.io/badge/PyTest-6DB33F?style=flat&logo=pytest&logoColor=white">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/PyTest-0A9EDC?style=flat&logo=pytest&logoColor=white">
   <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=00c8ff">
+  <img src="https://img.shields.io/badge/Django-0C4B33?style=flat&logo=django&logoColor=white">
 </p>
 
 **Other familiar tools:**
