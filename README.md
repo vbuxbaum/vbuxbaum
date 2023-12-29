@@ -4,11 +4,11 @@
 <img align="right" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vbuxbaum&theme=radical&count_private=true"  />
 
 
-💚 I currently work as an Instruction Specialist at [Trybe](https://github.com/betrybe)! 
+💚 I currently work as an Instruction Specialist (AKA writer-teacher-developer) at [Trybe](https://github.com/betrybe)! 
 
-📆 I code and teach Python on a daily basis, building automations and discussing Computer Science (Algorithms, Data Structures and Abstract Data Types, Computer Architecture and OOP).
+📆 I code and teach Python on a daily basis, building APIs and automations and discussing Computer Science (Algorithms, Data Structures and Abstract Data Types, Computer Architecture and OOP).
 
-💼 I have also worked as a Product Manager, and used A LOT of SQL on interships. 
+💼 I have also worked as a Product Manager for 2 years in 2 different companies. 
 
 🌎 One of my contributions to the Python community is the translation of parts of the language's official documentation to Brazilian Portuguese. [Venha nos ajudar nessa! Qualquer pessoa pode contribuir](https://github.com/python/python-docs-pt-br/wiki/Guia-de-tradu%C3%A7%C3%A3o) 
 
