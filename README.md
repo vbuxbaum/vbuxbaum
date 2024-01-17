@@ -4,7 +4,7 @@
 <img align="right" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vbuxbaum&theme=radical&count_private=true"  />
 
 
-💚 I currently work as an Instruction Specialist (AKA writer-teacher-developer) at [Trybe](https://github.com/betrybe)! 
+💚 I currently work as a Python Instruction Specialist (AKA writer-teacher-developer) at [Trybe](https://github.com/betrybe)! 
 
 📆 I code and teach Python on a daily basis, building APIs and automations and discussing Computer Science (Algorithms, Data Structures and Abstract Data Types, Computer Architecture and OOP).
 
