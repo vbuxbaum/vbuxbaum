@@ -6,7 +6,7 @@
 
 💚 I currently work as a Python Instruction Specialist (AKA writer-teacher-developer) at [Trybe](https://github.com/betrybe)! 
 
-📆 I code and teach Python on a daily basis, building APIs and automations and discussing Computer Science (Algorithms, Data Structures and Abstract Data Types, Computer Architecture and OOP).
+📆 I code and teach Python on a daily basis, building Web APIs (Flask, FastAPI and Django) and automations (Selenium, BeautifulSoup), but also Computer Science topics (Algorithms, Data Structures, Computer Architecture and OOP).
 
 💼 I have also worked as a Product Manager for 2 years in 2 different companies. 
 
