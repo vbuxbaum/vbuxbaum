@@ -3,14 +3,13 @@
 
 <img align="right" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vbuxbaum&theme=radical&count_private=true"  />
 
-
-💚 I currently work as a Python Instruction Specialist (AKA writer-teacher-developer) at [Trybe](https://github.com/betrybe)! 
-
 📆 I code and teach Python on a daily basis, building Web APIs (Flask, FastAPI and Django) and automations (Selenium, BeautifulSoup), but also Computer Science topics (Algorithms, Data Structures, Computer Architecture and OOP).
 
 💼 I have also worked as a Product Manager for 2 years in 2 different companies. 
 
-🌎 One of my contributions to the Python community is the translation of parts of the language's official documentation to Brazilian Portuguese. [Venha nos ajudar nessa! Qualquer pessoa pode contribuir](https://github.com/python/python-docs-pt-br/wiki/Guia-de-tradu%C3%A7%C3%A3o) 
+🤝 One of my contributions to the Python community is organizing Meetups in the state of Minas Gerais 🔺. [You can find our events here!](https://www.meetup.com/PythonMG/)
+
+🌎 Another is the translation of parts of the language's official documentation to Brazilian Portuguese. [Venha nos ajudar nessa! Qualquer pessoa pode contribuir](https://github.com/python/python-docs-pt-br/wiki/Guia-de-tradu%C3%A7%C3%A3o) 
 
 📺 `House MD`, `Breaking Bad` and `The Office (US)` are definitely the best TV/Streaming series ever made, and you probably won't be able to change my mind!
 
