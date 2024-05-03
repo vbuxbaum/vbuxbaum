@@ -1,8 +1,6 @@
 
 ## Olá, eu sou o Bux! 🙃 
 
-<img align="right" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vbuxbaum&theme=radical&count_private=true"  />
-
 📆 I code and teach Python on a daily basis, building Web APIs (Flask, FastAPI and Django) and automations (Selenium, BeautifulSoup), but also Computer Science topics (Algorithms, Data Structures, Computer Architecture and OOP).
 
 💼 I have also worked as a Product Manager for 2 years in 2 different companies. 
