@@ -12,7 +12,7 @@
 📺 `House MD`, `Breaking Bad` and `The Office (US)` are definitely the best TV/Streaming series ever made, and you probably won't be able to change my mind!
 
 **Languages and Frameworks:**
-<p align="left">
+<p id="bla" align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Bash-20C20E?style=flat&logo=gnubash&logoColor=white">
   <img src="https://img.shields.io/badge/SQL-F1502F?style=flat&logo=mysql&logoColor=white">
