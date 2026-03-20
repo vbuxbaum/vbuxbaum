@@ -1,7 +1,7 @@
 
 ## Olá, eu sou o Bux! 🙃 
 
-📆 I build automations, data pipelines and AI agents for @velozient. I use code (Python and SQL in Airflow), no-code (n8n and PowerAutomate), using the right tool for the right problem.
+📆 I build automations, data pipelines and AI agents for [Velozient](https://www.linkedin.com/company/velozient). I use code (Python and SQL in Airflow), no-code (n8n and PowerAutomate), using the right tool for the right problem.
 
 😎 I have also worked as Python _(Flask, FastAPI, Django, Selenium, BeautifulSoup, Pytest and more)_ and Computer Science _(Algorithms, Data Structures, Computer Architecture and OOP)_ teacher for 3 years, and as a Product Manager for 2 years. 
 
