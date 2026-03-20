@@ -1,9 +1,9 @@
 
 ## Olá, eu sou o Bux! 🙃 
 
-📆 I code and teach Python on a daily basis, building Web APIs (Flask, FastAPI and Django) and automations (Selenium, BeautifulSoup), but also Computer Science topics (Algorithms, Data Structures, Computer Architecture and OOP).
+📆 I build automations, data pipelines and AI agents for @velozient. I use code (Python and SQL in Airflow), no-code (n8n and PowerAutomate), using the right tool for the right problem.
 
-💼 I have also worked as a Product Manager for 2 years in 2 different companies. 
+😎 I have also worked as Python _(Flask, FastAPI, Django, Selenium, BeautifulSoup, Pytest and more)_ and Computer Science _(Algorithms, Data Structures, Computer Architecture and OOP)_ teacher for 3 years, and as a Product Manager for 2 years. 
 
 🤝 One of my contributions to the Python community is organizing Meetups in the state of Minas Gerais 🔺. [You can find our events here!](https://www.meetup.com/PythonMG/)
 
