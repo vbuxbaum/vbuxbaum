@@ -1,3 +1,5 @@
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2595426562142341"
+     crossorigin="anonymous"></script>
 
 ## Olá, eu sou o Bux! 🙃 
 
