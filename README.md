@@ -3,11 +3,11 @@
 
 ## Olá, eu sou o Bux! 🙃 
 
-📆 I build automations, data pipelines and AI agents for [Velozient](https://www.linkedin.com/company/velozient). I use code (Python and SQL in Airflow), no-code (n8n and PowerAutomate), using the right tool for the right problem.
+📆 I build automations, data pipelines and AI agents for [Velozient](https://www.linkedin.com/company/velozient). I use code (Python and SQL in Airflow) and no-code (n8n and PowerAutomate), choosing the right tool for the right problem.
 
 😎 I have also worked as Python _(Flask, FastAPI, Django, Selenium, BeautifulSoup, Pytest and more)_ and Computer Science _(Algorithms, Data Structures, Computer Architecture and OOP)_ teacher for 3 years, and as a Product Manager for 2 years. 
 
-🤝 One of my contributions to the Python community is organizing Meetups in the state of Minas Gerais 🔺. [You can find our events here!](https://www.meetup.com/PythonMG/)
+🤝 One of my contributions to the Python community is organizing Meetups and conferences in the state of Minas Gerais 🔺. [You can find our events here!](https://www.meetup.com/PythonMG/)
 
 🌎 Another is the translation of parts of the language's official documentation to Brazilian Portuguese. [Venha nos ajudar nessa! Qualquer pessoa pode contribuir](https://github.com/python/python-docs-pt-br/wiki/Guia-de-tradu%C3%A7%C3%A3o) 
 
