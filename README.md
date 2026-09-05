@@ -1,6 +1,3 @@
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2595426562142341"
-     crossorigin="anonymous"></script>
-
 ## Olá, eu sou o Bux! 🙃 
 
 📆 I build automations, data pipelines and AI agents for [Velozient](https://www.linkedin.com/company/velozient). I use code (Python and SQL in Airflow) and no-code (n8n and PowerAutomate), choosing the right tool for the right problem.
